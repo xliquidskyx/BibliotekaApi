@@ -4,14 +4,14 @@ using System.Runtime.CompilerServices;
 namespace BibliotekaApi.Models
 {
 
-    public class Autor
+    public class Author
     {
         public int Id { get; set; }
         [Required]
-        public string Imie { get; set; }
+        public string FirstName { get; set; } = string.Empty;
         [Required]
-        public string Nazwisko { get; set; }
-        public List<Ksiazka> Ksiazki { get; set; } = new();
+        public string LastName { get; set; } = string.Empty;
+        public List<Book> Books { get; set; } = new();
     }
 
 }

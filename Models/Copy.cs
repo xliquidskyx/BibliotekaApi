@@ -3,9 +3,10 @@ using System.Runtime.CompilerServices;
 
 namespace BibliotekaApi.Models
 {
-    public class Kopia {
+    public class Copy
+    {
         public int Id { get; set; }
-        public int KsiazkaId { get; set; }
-        public Ksiazka Ksiazka { get; set; }
+        public int BookId { get; set; }
+        public Book? Book { get; set; }
     }
 }

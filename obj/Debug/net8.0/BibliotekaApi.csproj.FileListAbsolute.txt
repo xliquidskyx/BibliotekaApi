@@ -182,7 +182,6 @@ C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaApi.props
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotekaApi.props
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\Bibliote.D043E956.Up2Date
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\BibliotekaApi.dll
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\refint\BibliotekaApi.dll
@@ -190,3 +189,5 @@ C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\BibliotekaApi.genruntimeconfig.cache
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\ref\BibliotekaApi.dll
 C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\bin\Debug\net8.0\BibliotekaApi.staticwebassets.runtime.json
+C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\BibliotekaApi.sourcelink.json
+C:\Users\laura\Desktop\BibliotekaApi\BibliotekaApi\BibliotekaApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
