@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "kBVlC6+yZhW496i9FLf9T5VjQkoxFkg3B1IWhOCbw/s=",
+  "Source": "BibliotekaApi",
+  "BasePath": "_content/BibliotekaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BibliotekaApi\\wwwroot",
+      "Source": "BibliotekaApi",
+      "ContentRoot": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\",
+      "BasePath": "_content/BibliotekaApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\js\\main.js",
+      "SourceId": "BibliotekaApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\",
+      "BasePath": "_content/BibliotekaApi",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2gldewif5",
+      "Integrity": "nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\test\\index.html",
+      "SourceId": "BibliotekaApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\",
+      "BasePath": "_content/BibliotekaApi",
+      "RelativePath": "test/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "os5v6kezkd",
+      "Integrity": "6JqN+FVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 11:24:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.l2gldewif5.js",
+      "AssetFile": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 11:24:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2gldewif5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo="
+        }
+      ]
+    },
+    {
+      "Route": "test/index.html",
+      "AssetFile": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\test\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6JqN+FVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 11:33:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6JqN+FVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU="
+        }
+      ]
+    },
+    {
+      "Route": "test/index.os5v6kezkd.html",
+      "AssetFile": "C:\\Users\\laura\\Desktop\\BibliotekaApi\\BibliotekaApi\\BibliotekaApi\\wwwroot\\test\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6JqN+FVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 11:33:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "os5v6kezkd"
+        },
+        {
+          "Name": "label",
+          "Value": "test/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6JqN+FVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU="
+        }
+      ]
+    }
+  ]
+}

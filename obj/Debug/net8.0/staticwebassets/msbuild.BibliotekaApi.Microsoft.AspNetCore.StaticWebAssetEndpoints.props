@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BibliotekaApi/js/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"200621"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 May 2025 11:24:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BibliotekaApi/js/main.l2gldewif5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2gldewif5"},{"Name":"integrity","Value":"sha256-nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo="},{"Name":"label","Value":"_content/BibliotekaApi/js/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"200621"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022nemW/NnTkjBKFS0dNZKrKXdEGeXEqlEYmKCizvvp0wo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 May 2025 11:24:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BibliotekaApi/test/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6JqN\u002BFVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"232"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226JqN\u002BFVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 May 2025 11:33:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BibliotekaApi/test/index.os5v6kezkd.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"os5v6kezkd"},{"Name":"integrity","Value":"sha256-6JqN\u002BFVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU="},{"Name":"label","Value":"_content/BibliotekaApi/test/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"232"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226JqN\u002BFVyurmNkbT1DohPqEA6VlrOKWkpDgCKKNChJBU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 May 2025 11:33:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+@BibliotekaApi_HostAddress = http://localhost:5007
+
+GET {{BibliotekaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
